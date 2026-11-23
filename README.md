@@ -1,5 +1,4 @@
-# Midnight-Tee-Adventure-RPG
-Repo- contributors, lore, characters, code- core developers hub
+
 # Midnight-Tee-Adventure-RPG
 
 > **Core Developers Hub:** Contributors, Lore, Characters, and Engine Architecture for **Midnight-Tee-Adventure-RPG** (Discord Text-Based RPG).  
