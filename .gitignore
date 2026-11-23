@@ -1,0 +1,15 @@
+# Whitelist-first Zero-Trust Ignore Policy: block all dotfiles by default
+.*
+!.gitignore
+!.github/
+!.github/**
+
+# Ignore deep software, Android/DeX, and IDE folder paths
+.cache/
+.config/
+.local/
+.termux/
+__pycache__/
+*.py[cod]
+*.dex
+.env*
